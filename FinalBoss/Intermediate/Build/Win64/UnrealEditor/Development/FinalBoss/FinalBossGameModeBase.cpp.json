@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\game jam\\gj_finalboss\\finalboss\\source\\finalboss\\finalbossgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\game jam\\gj_finalboss\\finalboss\\intermediate\\build\\win64\\finalbosseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\game jam\\gj_finalboss\\finalboss\\intermediate\\build\\win64\\unrealeditor\\development\\finalboss\\definitions.finalboss.h",
+            "d:\\game jam\\gj_finalboss\\finalboss\\source\\finalboss\\finalbossgamemodebase.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\game jam\\gj_finalboss\\finalboss\\intermediate\\build\\win64\\unrealeditor\\inc\\finalboss\\finalbossgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

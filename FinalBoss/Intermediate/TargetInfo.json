@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FinalBoss",
+			"Path": "D:\\Game Jam\\GJ_FinalBoss\\FinalBoss\\Source\\FinalBoss.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FinalBossEditor",
+			"Path": "D:\\Game Jam\\GJ_FinalBoss\\FinalBoss\\Source\\FinalBossEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

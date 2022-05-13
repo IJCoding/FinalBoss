@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FinalBoss.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\FinalBossEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\FinalBoss.cpp.obj"
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\FinalBossGameModeBase.cpp.obj"
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\FinalBoss.init.gen.cpp.obj"
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\FinalBossGameModeBase.gen.cpp.obj"
+"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\Default.rc2.res"
+/OUT:"D:\Game Jam\GJ_FinalBoss\FinalBoss\Intermediate\Build\Win64\UnrealEditor\Development\FinalBoss\UnrealEditor-FinalBoss.lib"
