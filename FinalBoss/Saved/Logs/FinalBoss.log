@@ -1228,3 +1228,203 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.05.16-10.18.19:915][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2022.05.16-10.18.19:921][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
 [2022.05.16-10.18.19:941][832]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.16-10.21.02:541][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2022.05.16-10.21.02:557][885]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.05.16-10.21.02:558][885]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/BP_FirstPersonCharacterEEA30C9147DA581EBA587289F011ACE7.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.05.16-10.21.02:574][885]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.05.16-10.21.02:574][885]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.05.16-10.21.37:181][557]LogContentBrowser: Deferred new asset file creation: NewControlRigShapeLibrary
+[2022.05.16-10.21.37:186][557]LogContentBrowser: Creating deferred item: NewControlRigShapeLibrary
+[2022.05.16-10.21.37:202][559]LogContentBrowser: Renaming the item being created (Deferred Item: NewControlRigShapeLibrary).
+[2022.05.16-10.21.37:836][604]LogContentBrowser: Attempting asset rename: NewControlRigShapeLibrary -> NewControlRigShapeLibrary
+[2022.05.16-10.21.37:855][604]LogContentBrowser: End creating deferred item NewControlRigShapeLibrary
+[2022.05.16-10.21.38:908][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.05.16-10.21.39:754][675]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.16-10.21.39:805][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.16-10.21.41:385][771]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.16-10.21.41:428][771]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.16-10.21.41:446][773]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.16-10.21.43:364][907]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.05.16-10.21.43:379][907]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.16-10.21.44:954][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.05.16-10.21.46:926][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.05.16-10.21.47:867][108]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.16-10.21.48:084][108]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-10.21.48:084][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-10.21.48:152][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.16-10.21.48:152][108]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-10.21.48:152][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-10.21.48:192][108]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Minion/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+	Asset Type: Blueprint
+[2022.05.16-10.21.48:530][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.05.16-10.21.48:622][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.05.16-10.21.51:506][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.05.16-10.21.56:294][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.05.16-10.21.57:580][559]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.16-10.21.57:713][559]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Minion/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+	Asset Type: Blueprint
+[2022.05.16-10.21.57:939][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.05.16-10.21.57:984][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.16-10.21.59:801][668]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.16-10.21.59:848][668]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.16-10.21.59:855][669]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.16-10.22.01:203][764]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.05.16-10.22.01:203][764]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.16-10.22.11:128][110]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.16-10.22.11:136][110]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.16-10.22.11:141][110]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.16-10.22.11:157][112]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.16-10.22.22:813][903]LogContentBrowser: Attempting asset rename: NewBlueprint -> Goblin
+[2022.05.16-10.22.22:818][903]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.16-10.22.23:208][930]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Minion/Blueprints/Goblin.Goblin
+[2022.05.16-10.22.23:208][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-10.22.31:603][248]LogSlate: Window 'Goblin' being destroyed
+[2022.05.16-10.23.08:073][ 40]LogSlate: Window 'Goblin' being destroyed
+[2022.05.16-10.23.08:080][ 40]LogSlate: Window 'Goblin' being destroyed
+[2022.05.16-10.23.08:093][ 40]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-10.23.08:094][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-10.23.28:064][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.16-10.23.29:685][804]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.16-10.23.29:718][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.05.16-10.42.11:947][842]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.16-10.42.11:956][842]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.16-10.42.11:965][843]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.16-10.42.13:505][950]LogContentBrowser: Attempting asset rename: NewFolder -> Minion
+[2022.05.16-10.42.13:505][950]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.16-10.42.16:345][132]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.16-10.42.16:357][132]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.16-10.42.16:374][134]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.16-10.42.18:265][265]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.05.16-10.42.18:266][265]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.16-10.42.21:609][479]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.16-10.42.21:623][479]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.16-10.42.21:632][480]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.05.16-10.42.33:680][304]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.05.16-10.42.33:697][304]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.16-10.43.25:532][507]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.05.16-10.43.25:540][507]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.05.16-10.43.25:545][507]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.05.16-10.43.25:561][509]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.05.16-10.43.32:252][940]LogContentBrowser: Attempting asset rename: NewBlueprint -> Minion
+[2022.05.16-10.43.32:257][940]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.05.16-10.43.33:038][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Minion/Blueprints/Minion.Minion
+[2022.05.16-10.43.33:038][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-10.43.36:750][184]LogSlate: Window 'Minion' being destroyed
+[2022.05.16-10.43.45:553][205]LogSlate: Took 0.001270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.16-10.54.36:432][409]LogDerivedDataCache: C:/Users/IRGJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.417 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.16-10.54.48:738][473]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2022.05.16-10.55.15:746][498]BlueprintLog: New page: Compile Minion
+[2022.05.16-10.55.15:749][498]LogBlueprint: Error: [AssetLog] /Game/Minion/Blueprints/Minion.Minion (no disk path found): [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  float - float
+[2022.05.16-10.55.15:749][498]LogBlueprint: Error: [AssetLog] /Game/Minion/Blueprints/Minion.Minion (no disk path found): [Compiler] Output pin type 'Integer' is not compatible with input type of 'Float (double-precision)' on ' float - float '
+[2022.05.16-10.55.15:812][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.16-10.56.25:870][387]BlueprintLog: New page: Compile Minion
+[2022.05.16-10.56.25:918][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.05.16-10.56.34:619][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Minion/Blueprints/Minion.Minion_C
+[2022.05.16-10.56.34:619][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Minion/Blueprints/Minion.Minion_C
+[2022.05.16-10.56.34:621][211]LogActorFactory: Actor Factory spawned Blueprint /Game/Minion/Blueprints/Minion.Minion as actor: Minion_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Minion_C_0
+[2022.05.16-10.56.34:622][211]LogActorFactory: Actor Factory spawned Blueprint /Game/Minion/Blueprints/Minion.Minion as actor: Minion_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Minion_C_0
+[2022.05.16-10.56.35:232][241]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Minion/Blueprints/Minion.Minion_C
+[2022.05.16-10.56.35:232][241]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Minion/Blueprints/Minion.Minion_C
+[2022.05.16-10.56.35:237][241]LogActorFactory: Actor Factory spawned Blueprint /Game/Minion/Blueprints/Minion.Minion as actor: Minion_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Minion_C_UAID_4CEDFB6B4A875B1001_1967780071
+[2022.05.16-10.56.35:238][241]LogActorFactory: Actor Factory spawned Blueprint /Game/Minion/Blueprints/Minion.Minion as actor: Minion_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Minion_C_UAID_4CEDFB6B4A875B1001_1967780071
+[2022.05.16-10.56.39:712][541]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.05.16-10.56.39:724][541]LogWorldPartition: Display: GenerateStreaming started...
+[2022.05.16-10.56.39:724][541]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.05.16-10.56.39:724][541]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.16-10.56.39:725][541]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.05.16-10.56.39:725][541]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.05.16-10.56.39:725][541]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.05.16-10.56.39:725][541]LogWorldPartition: Display: GenerateStreaming took 314 us
+[2022.05.16-10.56.39:725][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.16-10.56.39:725][541]PIE: New page: PIE session: FirstPersonMap (16 May 2022, 12:56:39)
+[2022.05.16-10.56.39:725][541]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.05.16-10.56.39:731][541]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.05.16-10.56.39:731][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005777s)
+[2022.05.16-10.56.39:731][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005829s)
+[2022.05.16-10.56.39:731][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.05.16-10.56.39:732][541]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.05.16-10.56.39:732][541]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.05.16-10.56.39:732][541]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.05.16-10.56.39:733][541]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.05.16-10.56.39:733][541]LogPlayLevel: PIE: World Init took: (0.002349s)
+[2022.05.16-10.56.39:765][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.05.16-10.56.39:767][541]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.05.16-10.56.39:767][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-10.56.39:767][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-10.56.39:767][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-10.56.39:767][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-10.56.39:767][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-10.56.39:769][541]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.05.16-10.56.39:807][541]LogAudioMixer: Display: Using Audio Hardware Device Elegiant (Realtek High Definition Audio)
+[2022.05.16-10.56.39:807][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-10.56.39:807][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-10.56.39:807][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-10.56.39:809][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.05.16-10.56.39:809][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.05.16-10.56.39:811][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.05.16-10.56.39:811][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.05.16-10.56.39:811][541]LogInit: FAudioDevice initialized.
+[2022.05.16-10.56.39:811][541]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2022.05.16-10.56.39:820][541]LogLoad: Game class is 'SinglePlayer_C'
+[2022.05.16-10.56.39:822][541]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.05.16-11.56.39
+[2022.05.16-10.56.39:827][541]LogWorld: Bringing up level for play took: 0.005956
+[2022.05.16-10.56.39:829][541]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.05.16-10.56.39:831][541]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.05.16-10.56.39:831][541]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.05.16-10.56.39:832][541]PIE: Server logged in
+[2022.05.16-10.56.39:832][541]PIE: Play in editor total start time 0.111 seconds.
+[2022.05.16-10.56.42:863][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-10.56.42:863][751]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.05.16-10.56.42:865][751]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-10.56.42:865][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-10.56.42:879][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.16-10.56.42:883][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-10.56.42:914][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-10.56.42:914][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.16-10.56.42:916][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.05.16-10.56.42:919][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-10.56.42:921][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.05.16-10.56.42:959][752]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.05.16-10.56.47:745][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minion/Blueprints/Minion" FILE="D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Minion/Blueprints/Minion.uasset" SILENT=true
+[2022.05.16-10.56.47:754][123]LogSavePackage: Moving output files for package: /Game/Minion/Blueprints/Minion
+[2022.05.16-10.56.47:754][123]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/MinionBC619BE44ADEC5A7E97692864F96885D.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Minion/Blueprints/Minion.uasset'
+[2022.05.16-10.56.47:766][123]AssetCheck: New page: Asset Save: Minion
+[2022.05.16-10.56.47:766][123]LogContentValidation: Display: Validating Blueprint /Game/Minion/Blueprints/Minion.Minion
+[2022.05.16-10.57.45:420][837]BlueprintLog: New page: Compile Minion
+[2022.05.16-10.57.45:473][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.05.16-10.57.50:189][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.16-10.57.50:283][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.16-10.57.50:314][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.05.16-10.57.50:344][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.16-10.57.50:347][265]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS
+[2022.05.16-10.57.50:351][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS
+[2022.05.16-10.57.50:351][265]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/8LRLQ1X1ARMDW8BJT1XEFS9310B01340E9833463AD74A502724CBA.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS.uasset'
+[2022.05.16-10.57.50:354][265]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS
+[2022.05.16-10.57.50:355][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/FirstPersonMap" FILE="D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/FirstPerson/Maps/FirstPersonMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.16-10.57.50:384][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.05.16-10.57.50:392][265]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.05.16-10.57.50:394][265]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/FirstPersonMap39FBD82D4C7F3FD5E3E159898E79E38D.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2022.05.16-10.57.50:410][265]LogFileHelpers: Saving map 'FirstPersonMap' took 0.065
+[2022.05.16-10.57.50:414][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS
+[2022.05.16-10.57.50:415][265]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/8LRLQ1X1ARMDW8BJT1XEFSFCD947E84E659D807E1E1EB80D30B05B.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/GT/8LRLQ1X1ARMDW8BJT1XEFS.uasset'
+[2022.05.16-10.57.50:417][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Boss/Blueprints/SinglePlayer" FILE="D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Boss/Blueprints/SinglePlayer.uasset" SILENT=true
+[2022.05.16-10.57.50:422][265]LogSavePackage: Moving output files for package: /Game/Boss/Blueprints/SinglePlayer
+[2022.05.16-10.57.50:422][265]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/SinglePlayerA70DE2FE4D874FD6AA31C08A0D7D18FC.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Boss/Blueprints/SinglePlayer.uasset'
+[2022.05.16-10.57.50:457][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Minion/Blueprints/Minion" FILE="D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Minion/Blueprints/Minion.uasset" SILENT=true
+[2022.05.16-10.57.50:466][265]LogSavePackage: Moving output files for package: /Game/Minion/Blueprints/Minion
+[2022.05.16-10.57.50:467][265]LogSavePackage: Moving 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Saved/Minion766C5B5349305614439F9FB5D87ABBDB.tmp' to 'D:/Game Jam/GJ_FinalBoss/FinalBoss/Content/Minion/Blueprints/Minion.uasset'
+[2022.05.16-10.57.50:481][265]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.16-10.57.50:481][265]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.05.16-10.57.50:481][265]LogContentValidation: Display: Validating Blueprint /Game/Boss/Blueprints/SinglePlayer.SinglePlayer
+[2022.05.16-10.57.50:481][265]LogContentValidation: Display: Validating Minion_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Minion_C_UAID_4CEDFB6B4A875B1001_1967780071
+[2022.05.16-10.57.50:481][265]LogContentValidation: Display: Validating Blueprint /Game/Minion/Blueprints/Minion.Minion
